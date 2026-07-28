@@ -303,7 +303,7 @@ export const connectCTA = {
 export const connectOptions = [
   { label: 'Start a Project', kind: 'route' as const, href: '/contact', icon: 'rocket' as const, primary: true },
   // { label: 'Send an Email', kind: 'external' as const, href: `mailto:${site.email}`, icon: 'mail' as const },
-  { label: 'LinkedIn', kind: 'external' as const, href: 'https://www.linkedin.com/in/chukwuma-emmanuel-53386236b/', icon: 'linkedin' as const },
+  { label: 'LinkedIn', kind: 'external' as const, href: 'https://www.linkedin.com/in/chukwuma-emmanuel-126517381/', icon: 'linkedin' as const },
   { label: 'GitHub', kind: 'external' as const, href: 'https://github.com/Chukwwumaemmannuel233', icon: 'github' as const },
   { label: 'Read.cv', kind: 'external' as const, href: site.resumeHref, icon: 'download' as const },
 ];
@@ -319,7 +319,7 @@ export const contactPage = {
     'My approach begins with deep discovery. We start with a focused call to align on goals, followed by a rigorous technical blueprint covering architecture, scale, and performance.',
   waysToConnect: [
     { label: `${site.email}`, icon: 'at-sign' as const, href: `mailto:${site.email}` },
-    { label: 'LinkedIn Profile', icon: 'share' as const, href: 'https://www.linkedin.com/in/chukwuma-emmanuel-53386236b/' },
+    { label: 'LinkedIn Profile', icon: 'share' as const, href: 'https://www.linkedin.com/in/chukwuma-emmanuel-126517381/' },
     { label: 'GitHub Repositories', icon: 'code' as const, href: 'https://github.com/Chukwwumaemmannuel233' },
   ],
   respondCopy: 'I usually respond within 24–48 business hours.',

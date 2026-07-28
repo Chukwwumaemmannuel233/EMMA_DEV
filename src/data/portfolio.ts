@@ -319,8 +319,8 @@ export const contactPage = {
     'My approach begins with deep discovery. We start with a focused call to align on goals, followed by a rigorous technical blueprint covering architecture, scale, and performance.',
   waysToConnect: [
     { label: `${site.email}`, icon: 'at-sign' as const, href: `mailto:${site.email}` },
-    { label: 'LinkedIn Profile', icon: 'share' as const, href: '#' },
-    { label: 'GitHub Repositories', icon: 'code' as const, href: '#' },
+    { label: 'LinkedIn Profile', icon: 'share' as const, href: 'https://www.linkedin.com/in/chukwuma-emmanuel-53386236b/' },
+    { label: 'GitHub Repositories', icon: 'code' as const, href: 'https://github.com/Chukwwumaemmannuel233' },
   ],
   respondCopy: 'I usually respond within 24–48 business hours.',
   blueprints: {

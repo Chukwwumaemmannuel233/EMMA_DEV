@@ -66,30 +66,21 @@ export const featuredProject = {
 // to change as this list grows.
 export const moreProjects: Project[] = [
   {
-    title: 'Fabric & Textiles Storefront',
+    title: 'K.A.V Textiles',
     category: 'Storefront',
     description: 'E-commerce site built for a fabric and textiles business client.',
     stack: ['Next.js', 'Stripe', 'PostgreSQL'],
-    image: '/images/fabric-store.png',
-    href: 'https://your-live-url.com',
+    image: 'https://chukwuma-emmanuel-seven.vercel.app/images/kav-textile.png',
+    href: 'https://kav-textile.vercel.app/',
   },
    {
-    title: 'Investment Management System',
-    category: 'FinTech Dashboard',
+    title: "StreamFlix",
+    category: "Entertainment",
     description:
-      'A modern investment management platform built for monitoring portfolios, financial activities, and investment performance through an intuitive dashboard.',
-    stack: ['React', 'Vite', 'TypeScript', 'Tailwind CSS', 'Redux'],
-    image: '/images/projects/investment-management.png',
-    href: '#',
-  },
-  {
-    title: 'Creator Monetization Platform',
-    category: 'Creator Economy',
-    description:
-      'A digital product marketplace inspired by Selar, enabling creators to sell digital products and manage their online business with ease.',
-    stack: ['React', 'Vite', 'TypeScript', 'Tailwind CSS', 'Redux'],
-    image: '/images/projects/creator-platform.png',
-    href: '#',
+      "A modern movie streaming platform featuring movie discovery, detailed information, responsive layouts, and an immersive viewing experience.",
+    stack: ["Next.js", "TypeScript", "Tailwind CSS", "REST API"],
+    image: "/images/streamflix.png",
+    href: "https://streamflix-app-rho.vercel.app/waitlist",
   },
   {
     title: "Uche's Gadget Hub",
@@ -97,8 +88,8 @@ export const moreProjects: Project[] = [
     description:
       'A modern electronics e-commerce platform featuring product browsing, secure checkout, Paystack integration, and an admin dashboard.',
     stack: ['Next.js', 'TypeScript', 'Tailwind CSS', 'Node.js', 'PostgreSQL'],
-    image: '/images/projects/uche-gadget-hub.png',
-    href: '#',
+    image: 'https://chukwuma-emmanuel-seven.vercel.app/images/uche-gadgetsHub.png',
+    href: 'https://uche-s.vercel.app/',
   },
   {
     title: "L'Essence Fragrances",
@@ -106,7 +97,7 @@ export const moreProjects: Project[] = [
     description:
       'A premium fragrance brand website showcasing luxury perfumes with elegant UI, responsive layouts, and engaging user interactions.',
     stack: ['Next.js', 'TypeScript', 'Tailwind CSS', 'Framer Motion'],
-    image: '/images/projects/lessence.png',
+    image: "/images/lessence.png",
     href: 'https://l-essence-ten.vercel.app/',
   },
   {
@@ -114,9 +105,9 @@ export const moreProjects: Project[] = [
     category: 'Business Management',
     description:
       'An inventory management solution designed to help businesses manage products, stock levels, suppliers, and sales efficiently.',
-    stack: ['React', 'TypeScript', 'Node.js', 'Express', 'PostgreSQL'],
-    image: '/images/projects/inventory-management.png',
-    href: '#',
+    stack: ['React', 'TypeScript'],
+    image: '/images/inventory-management.png',
+    href: 'https://freshmart-delta.vercel.app/',
   },
   {
     title: 'The Verdant Hotel',
@@ -124,7 +115,7 @@ export const moreProjects: Project[] = [
     description:
       'A hotel booking platform with room listings, reservation workflows, and seamless frontend integration with backend APIs.',
     stack: ['Next.js', 'TypeScript', 'Tailwind CSS', 'REST APIs'],
-    image: '/images/projects/the-verdant.png',
+    image: '/images/verdant.png',
     href: '#',
   },
 ];

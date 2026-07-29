@@ -5,7 +5,7 @@ import Blueprints from '@/components/contact/Blueprints';
 import { usePageTitle } from '@/hooks/usePageTitle';
 
 export default function Contact() {
-  usePageTitle('Start a Project | ARCHITECT.LOG');
+  usePageTitle('Start a Project | EMMA-DEV');
   return (
     <>
       <Container className="relative pt-32 pb-section-gap-lg grid grid-cols-1 lg:grid-cols-12 gap-x-12">

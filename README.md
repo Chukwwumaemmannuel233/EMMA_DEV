@@ -1,4 +1,4 @@
-# ARCHITECT.LOG — Portfolio
+# EMMA-DEV — Portfolio
 
 A production React implementation of the Stitch export ("Kinetic Editorial" design system) — a two-page engineering portfolio: a full-scroll homepage and a dedicated project-inquiry page.
 

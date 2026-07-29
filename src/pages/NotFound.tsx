@@ -4,7 +4,7 @@ import Container from '@/components/ui/Container';
 import Button from '@/components/ui/Button';
 
 export default function NotFound() {
-  usePageTitle('Page Not Found | ARCHITECT.LOG');
+  usePageTitle('Page Not Found | EMMA-DEV');
 
   return (
     <Container className="min-h-[70vh] flex flex-col items-center justify-center text-center py-section-gap-lg">

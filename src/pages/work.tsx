@@ -9,7 +9,7 @@ import { usePageTitle } from '@/hooks/usePageTitle';
 import { ArrowLeft } from 'lucide-react';
 
 export default function Work() {
-  usePageTitle('All Work | ARCHITECT.LOG');
+  usePageTitle('All Work | EMMA-DEV');
   const [activeCategory, setActiveCategory] = useState<string>('All');
 
   const categories = useMemo(() => {
